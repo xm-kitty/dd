@@ -1,5 +1,5 @@
 {
-    "name": "xiaomi/dd",
+    "name": "zhangxiaomi/dd",
     "description": "use laravel dd replace var_dump",
     "type": "project",
     "require": {
